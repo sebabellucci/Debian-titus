@@ -5,7 +5,7 @@
 
 #Start polybar first
 bash ~/.config/polybar/launch.sh &
-feh --bg-fill ~/Pictures/background.jpg &
+feh --bg-fill ~/Pictures/13.jpg &
 
 # Variable Defines
 color0=#3B4252
