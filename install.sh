@@ -29,7 +29,7 @@ mkdir -p /usr/share/sddm/themes
 cp .Xresources /home/$username
 cp .Xnord /home/$username
 cp -R dotconfig/* /home/$username/.config/
-cp bg.jpg /home/$username/Pictures/
+cp 13.jpg /home/$username/Pictures/
 mv user-dirs.dirs /home/$username/.config
 chown -R $username:$username /home/$username
 tar -xzvf sugar-candy.tar.gz -C /usr/share/sddm/themes
